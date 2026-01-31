@@ -1,5 +1,5 @@
 ## Hi there 👋
-# My Personal Projects for Kids/Students 
+# Projects for Kids/Students 
 [DailyWords](https://dailywords.godsbee.com/)  
 Get AI-generated English words every day—perfect for boosting your English skills!  
 
